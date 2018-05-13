@@ -9,4 +9,4 @@
 [Hexo使用localhost:4000不能进行本地预览](https://www.jianshu.com/p/d3963da3946f)
 
 ## 3/在git中安装npm
-[nodejs、git和npm在windows下的安装](https://ask.hellobi.com/blog/niupoop/11350)
+[nodejs、git和npm在windows下的安装](https://onlyke.com/html/290.html)
