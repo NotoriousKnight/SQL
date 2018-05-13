@@ -12,7 +12,7 @@ np.array([1,2,3,4,5])
 ```R
 library('RandomForest')
 ```
-
+![image text](http://img.my.csdn.net/uploads/201304/10/1365562094_2229.jpg)
 
 
 
