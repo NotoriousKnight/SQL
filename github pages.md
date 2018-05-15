@@ -10,3 +10,6 @@
 
 ## 3/在git中安装npm
 [nodejs、git和npm在windows下的安装](https://onlyke.com/html/290.html)
+
+
+$\sqrt{xy}+\sqrt[a]{x}$
